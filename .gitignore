@@ -1,8 +1,8 @@
 __pycache__/
 *.pyc
-images/
-sounds/
-fonts/
 .idea/
 *.npy
 *.pt
+PPO_training/ppo_results/
+PPO_training/ppo_results_shoot_30k/
+PPO_training/report_notes_ppo.md
